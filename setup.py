@@ -7,7 +7,7 @@ setup(
     author='nickuzmenkov',
     author_email='nickuzmenkov@yahoo.com',
     # Needed to actually package something
-    packages=['main'],
+    packages=['pyjou'],
     # Needed for dependencies
     # install_requires=['numpy'],
     # *strongly* suggested for sharing
